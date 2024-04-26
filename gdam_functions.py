@@ -1,4 +1,4 @@
-"""Functions used in the Introduction to Quantitative Geology course"""
+"""Functions used in Exercise 8 of Geol 197 GDAM"""
 
 # Import any modules needed in your functions here
 import math
